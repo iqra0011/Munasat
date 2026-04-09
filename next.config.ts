@@ -1,7 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  distDir: '.next_new',
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
